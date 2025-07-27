@@ -1,0 +1,54 @@
+LTspice 24.1.0 for Windows
+Circuit: C:\Users\rajan\OneDrive\Desktop\SRAM_project.net
+Start Time: Wed Apr 23 11:00:53 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node nc_01 is floating.
+
+Instance "M1": Length shorter than recommended for a level 1 MOSFET.
+Instance "M1": Width narrower than recommended for a level 1 MOSFET.
+Instance "M2": Length shorter than recommended for a level 1 MOSFET.
+Instance "M2": Width narrower than recommended for a level 1 MOSFET.
+Instance "M3": Length shorter than recommended for a level 1 MOSFET.
+Instance "M3": Width narrower than recommended for a level 1 MOSFET.
+Instance "M4": Length shorter than recommended for a level 1 MOSFET.
+Instance "M4": Width narrower than recommended for a level 1 MOSFET.
+Instance "M5": Length shorter than recommended for a level 1 MOSFET.
+Instance "M5": Width narrower than recommended for a level 1 MOSFET.
+Instance "M6": Length shorter than recommended for a level 1 MOSFET.
+Instance "M6": Width narrower than recommended for a level 1 MOSFET.
+Instance "M14": Length shorter than recommended for a level 1 MOSFET.
+Instance "M14": Width narrower than recommended for a level 1 MOSFET.
+Instance "M15": Length shorter than recommended for a level 1 MOSFET.
+Instance "M15": Width narrower than recommended for a level 1 MOSFET.
+Instance "M16": Length shorter than recommended for a level 1 MOSFET.
+Instance "M16": Width narrower than recommended for a level 1 MOSFET.
+Instance "M7": Length shorter than recommended for a level 1 MOSFET.
+Instance "M7": Width narrower than recommended for a level 1 MOSFET.
+Instance "M8": Length shorter than recommended for a level 1 MOSFET.
+Instance "M8": Width narrower than recommended for a level 1 MOSFET.
+Instance "M9": Length shorter than recommended for a level 1 MOSFET.
+Instance "M9": Width narrower than recommended for a level 1 MOSFET.
+Instance "M10": Length shorter than recommended for a level 1 MOSFET.
+Instance "M10": Width narrower than recommended for a level 1 MOSFET.
+Instance "M11": Length shorter than recommended for a level 1 MOSFET.
+Instance "M11": Width narrower than recommended for a level 1 MOSFET.
+Instance "M12": Length shorter than recommended for a level 1 MOSFET.
+Instance "M12": Width narrower than recommended for a level 1 MOSFET.
+Instance "M13": Length shorter than recommended for a level 1 MOSFET.
+Instance "M13": Width narrower than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.2629650716853108e-09 to 1.2629650717634357e-09 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 2.2110565017895297e-08 to 2.2110565017973423e-08 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 2.2110565017973423e-08 to 2.2110565018051548e-08 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 4.2114288106338503e-08 to 4.2114288106416629e-08 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 6.2114300668049908e-08 to 6.2114300668128034e-08 seconds.
+Total elapsed time: 0.381 seconds.
+
+Files loaded:
+C:\Users\rajan\OneDrive\Desktop\SRAM_project.net
+C:\Users\rajan\AppData\Local\LTspice\lib\cmp\standard.mos
+
